@@ -1,2 +1,5 @@
-# banca-empresarial-diana
-Landing y pauta interactiva de Banca Empresarial - Diana Lucía Hernández Balvin
+# Banca Empresarial - Diana Hernandez
+
+Sitio publicado en: https://jpatehor.github.io/
+
+Pauta interactiva: https://jpatehor.github.io/pauta.html
