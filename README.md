@@ -2,4 +2,4 @@
 
 Sitio publicado en: https://jpatehor.github.io/
 
-Pauta interactiva: https://jpatehor.github.io/pauta.html
+Pauta interactiva: https://jpatehor.github.io/Bancaempresarialreplicacorporativa.html
