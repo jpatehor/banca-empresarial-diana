@@ -1,4 +1,4 @@
-# Banca Empresarial - Diana Hernandez
+# Banca empresarial replica corporativa - Diana Hernandez
 
 Sitio publicado en: https://jpatehor.github.io/
 
